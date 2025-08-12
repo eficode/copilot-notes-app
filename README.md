@@ -67,6 +67,8 @@ Before we can start delegating requests to Copilot, we need to grant access to o
 
 1. The **Repository access** field should either have All repositories or `Only selected repositories` and ensure the new repository is selected.
 
+This ensures the Copilot coding agent is properly configured for your repository.
+
 ## Explore Copilot coding agent settings in your repository
 
 To check the Copilot coding agent settings for your repository:
@@ -75,9 +77,7 @@ To check the Copilot coding agent settings for your repository:
 2. Click on **Settings** in the repository menu.
 3. In the left sidebar, find and select the **Copilot** section.
 4. Click on **Coding agent**.
-5. Explore the **Internet access**settings. This is the place where the Copilot's access to internet can be restricted. [More information](https://docs.github.com/en/enterprise-cloud@latest/copilot/how-tos/use-copilot-agents/coding-agent/customize-the-agent-firewall)
-
-This ensures the Copilot coding agent is properly configured for your repository.
+5. Explore the **Internet access** settings. This is the place where the Copilot's access to internet can be restricted. [More information](https://docs.github.com/en/enterprise-cloud@latest/copilot/how-tos/use-copilot-agents/coding-agent/customize-the-agent-firewall)
 
 ## Adding new feature
 
